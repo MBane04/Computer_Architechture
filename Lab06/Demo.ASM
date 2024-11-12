@@ -1,0 +1,5 @@
+	MOV	AL,2
+	PUSH	AL
+	POP	BL
+
+	END
